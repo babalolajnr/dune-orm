@@ -1,5 +1,5 @@
 [package]
-name = "dune-orm"
+name = "dune-cli"
 version = "0.1.0"
 edition = "2021"
 
